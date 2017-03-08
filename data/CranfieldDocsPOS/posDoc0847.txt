@@ -1,0 +1,1 @@
+apparatus mode shape vibrating circular shellcontacting cylinder linealnumber system relationship nodal pattern frequency cylinder effect pressuretimoshenko theory shell theory

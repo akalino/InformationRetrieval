@@ -1,0 +1,1 @@
+calculation heat transfer forward stagnation point bluntheat transfer laminar boundary layer velocity gradient stagnation pointvariation fluid prandtl number transpirationcalculation procedure

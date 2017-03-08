@@ -1,0 +1,1 @@
+solution laminar flow fluid nonparallel plane temperaturevelocity aid solution problemcase energy equation temperature linear equationintroduction dimensionless diverging prandtl

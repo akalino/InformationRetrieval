@@ -1,0 +1,1 @@
+analysis lowaspect-ratio aircraftloading respect orientation permit arbitrary boundaryanalysis structure network torsionmethod expressing member deflection equilibrium slope-compatibilitysolution product inverse matrix column matrix loadmethod column matrix fashion structure boundarytransfer transferoperation inversion matrix solution unknown boundary

@@ -1,0 +1,1 @@
+theory flow slender revolution equation case section outer surface slopepressure distribution surfacedrag coefficient longer independent mach number square thickness bodypressure change discontinuityapproximation lift coefficient

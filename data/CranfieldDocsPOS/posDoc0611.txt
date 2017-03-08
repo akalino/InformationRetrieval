@@ -1,0 +1,1 @@
+assumption enthalpy velocity enthalpy-velocity relation laminar boundary layer plate refer plate stream e equilibrium temperature condition platerelation prandtl number o approximation oabove relation conjunction viscosity-temperature relation chapman rubesin approximation shearing stress thickness velocity distribution cadvantage form

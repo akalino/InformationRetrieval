@@ -1,0 +1,1 @@
+paper model material paraplex temperature range room temperature fequipment modulus elasticity material fringe value thermal-expansion coefficient function temperaturedisk inclusion transient thermal-stress field temperature differential edge beamtheory material calibration phaseexploratory investigation phenomenon application temperature differential

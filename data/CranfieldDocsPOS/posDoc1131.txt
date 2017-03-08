@@ -1,0 +1,1 @@
+author restraint beginning onsetconversion factoreffect restraint type buckling amplification load type buckling type restraintdesign range l dstiffnessvalue known inadequacy theory compression

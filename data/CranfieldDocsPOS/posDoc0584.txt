@@ -1,0 +1,1 @@
+nonlinear boundary value problem m power t unknown temperature flux surface seriesmanner temperature function series errorconvergence tcondition surface methodsurface difference theat transfer surface

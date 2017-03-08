@@ -1,0 +1,1 @@
+use slot aerofoil laminar flow suction region dirt etcabsence pressure laminar boundary layer removing turbulent layer slot ducting reduction drag coefficient

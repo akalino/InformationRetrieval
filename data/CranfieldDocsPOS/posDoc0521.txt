@@ -1,0 +1,1 @@
+airfoil unit length round edge p x slope xsub- linear flow break neighborhood round edge failure small-disturbance assumptionflow theory shortcoming determination point airfoil role theory egspreiter local-linearization method hosokawa method refinement barrier point flow region edge roundness

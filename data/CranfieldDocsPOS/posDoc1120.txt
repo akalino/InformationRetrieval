@@ -1,0 +1,1 @@
+basis plasticity theory bucklinguniform compression theory bend twisting require tangent twist bending require secantbend twist modulus combination modulus tangent

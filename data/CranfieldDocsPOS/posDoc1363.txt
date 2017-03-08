@@ -1,0 +1,1 @@
+partequation revolution behaviour bendingexhibit type instability depend stiffness curvaturedeformation expression bending moment instabilityagreementpartanalysis part case squarebehaviour instabilityverification

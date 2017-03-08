@@ -1,0 +1,1 @@
+report investigation downstream influence mass transfer stagnation region blunt body flowcoolant plug centerline symmetry modelwind tunnel mach numberstagnation rstagnation pressure psiarange massheat transfer section wall conditions,mass flow surfaceanalysis flow order similarity flow systemextrapolation test flow laminar flowhelium coolant

@@ -1,0 +1,1 @@
+variable-density tunnel midspan section inch rectangular model ncairfoil attack numberaccurate studying theoryangle attack lift pressure distribution airfoil sectioncalculation ncsection circulation lift angleeangle chord model direction flow region section considerationcourse shape parameter profile shape shape

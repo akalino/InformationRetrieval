@@ -1,0 +1,1 @@
+head compressor pressure entry head velocityvariation velocity variation incidence stage blade blade vibrationassumption instance assumption fieldcompressor duct length assumptionduct air flow test outlet instance compressor distribution fact fashionobject note fact distribution compressor velocity compressor pressure head intake course attendant flow pressure

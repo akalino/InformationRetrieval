@@ -1,0 +1,1 @@
+parallel flow fluid duct transverse fieldduct fieldfluid moment velocity field form convolution pressure gradient given function timestep function pressure gradientcase effect strength field development behavior flow

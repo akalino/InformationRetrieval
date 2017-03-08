@@ -1,0 +1,1 @@
+method quantity heat unit area time tallowance surface resistance contact resistance layer resistance heat capacity

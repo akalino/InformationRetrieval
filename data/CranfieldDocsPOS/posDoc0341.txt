@@ -1,0 +1,1 @@
+nozzle integration flowform wayapproximation flow cone nozzle linearizationpart report transition curve source flow stream uniform velocityintegration mach line flow region conversion placefactor f relation direction velocity flow mach linefpart report flow section plane circular sectionnozzle contour adjacent throat arc circle transition curve linegas mach line use

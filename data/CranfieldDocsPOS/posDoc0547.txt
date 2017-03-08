@@ -1,0 +1,1 @@
+theory laminar boundary conjunction displacement thickness skin friction temperature undersurface caret configurationapproximation flow shock layer displacement shock layer edgeconduction heat body surface radiationeffect skin friction lift drag ratio

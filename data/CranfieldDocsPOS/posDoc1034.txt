@@ -1,0 +1,1 @@
+shell uniform pressuretime behavior shape cross sectionpower creep law,( b mode shape circularity cross sectionc shell construction sandwich type core shear deformationexplicit case creep lawamplitude mode shape shape factor timeshape factor time collapse time value shape factorexplicit expression curve variation collapse time value shape factorvariation shape factor value

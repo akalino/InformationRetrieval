@@ -1,0 +1,1 @@
+simple approximate analysis example torsionanalysis use computermethod square torsion cross section

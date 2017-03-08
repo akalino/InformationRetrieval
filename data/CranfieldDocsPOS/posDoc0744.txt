@@ -1,0 +1,1 @@
+relation load p deflection beyond buckling loadinstance uniform thin circular cylinder direction load p shown figstrain energy potential behaviorab equilibrium branch bc equilibriumpoint b point transition equilibrium

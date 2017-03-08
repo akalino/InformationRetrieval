@@ -1,0 +1,1 @@
+layer uniform flow parallel cylinder form series third-orderseban bond /1/ cylinderrest radius curvature cylinderproblem method seriesfront method hasimoto expansion dragexplicit drag cylinder eccentricityevidence drag cylinder perimeter

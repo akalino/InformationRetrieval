@@ -1,0 +1,1 @@
+ward theory slender cross section profile slopebody( radius nose base profile side air unswept edge( /spillage/ flowclassvariation drag mach number rate change area shapedrag direction flowlift moment assume smooth lift base bodytheory revolution wing edgeresemblance wardmodification

@@ -1,0 +1,1 @@
+paper application solution heat-conduction generalitysolution precision,( b choice modulus convergencesurface,( c method handling k c temperatureappendix use

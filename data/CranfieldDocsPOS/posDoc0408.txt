@@ -1,0 +1,1 @@
+motion conducting fluid parallel fieldsolution case temperature gradientvalue number case temperature

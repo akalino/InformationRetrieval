@@ -1,0 +1,1 @@
+transport air form partition air minorcompressibility enthalpy entropy speed sound viscosity conductivity prandtl air k range pressureenergy air mol air compressibility enthalpyprandtl number air equilibrium unity order transparent flux

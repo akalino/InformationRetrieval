@@ -1,0 +1,1 @@
+pressure thick aerofoil resection splitground plate ground platelift drag

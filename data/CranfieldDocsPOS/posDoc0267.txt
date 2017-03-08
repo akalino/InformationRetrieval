@@ -1,0 +1,1 @@
+analysis laminar convection heat transfer fluid plate case field fieldvelocity temperature exist field plate root distance end plateexplicit velocity temperature layer thickness number effect fieldeffect field rate heat transfer wallpart method convection ) momentum energy formtime flow effect field time

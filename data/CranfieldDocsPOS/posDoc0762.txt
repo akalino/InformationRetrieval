@@ -1,0 +1,1 @@
+strain-analysis calculation design load-strain cross section structuretemperature material curve design curvemethod sequence application removal load temperature load and/or temperaturebar temperature bending box beam temperature cycleinteraction load moment done computerprocedure method design

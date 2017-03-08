@@ -1,0 +1,1 @@
+method obtaining solution laminar boundary layer flow stream fluid parallel stream density viscosityapproximate solution momentum equationratio product corresponding density viscositycase fluid rest value velocity ratio

@@ -1,0 +1,1 @@
+position diffusion flame layer uniform mixture injection wall parallel uniform air stream laminar flow zero streamwise pressure gradientassumption forward reaction rate layer conservation acrothermochemistry formula downstream velocity flame composition flowchange wall streamwise directionreaction form analogy

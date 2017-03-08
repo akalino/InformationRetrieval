@@ -1,0 +1,1 @@
+method laminar heat-transfer wall temperature air flowattention case zero incidence waymethod use similarity/ concept extension fay riddellformula predicting ratio rate ratewall pressure distribution transport flow stagnation pointheat-transfer simulation wall shockagreement pressure evidence similarity assumption theory heat-transfer rate cent

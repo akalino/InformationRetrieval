@@ -1,0 +1,1 @@
+method neumann problem calculation lowspeed shape flow plane symmetryinlet flowmethod presence interference easearea suctionsurface body flow fieldsurface source distribution basis solutionfredholm equation kind set linear seidel methodpresent time solution ibm edpm flow body profile coordinatenumber scope method accuracyshape body number

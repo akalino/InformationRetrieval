@@ -1,0 +1,1 @@
+model pivotpropeller groundslipstream tilting wing trailing-edge flap deflection tiltrange propeller diskfootforce model pressure propeller form analysis

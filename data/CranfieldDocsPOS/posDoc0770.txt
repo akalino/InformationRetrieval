@@ -1,0 +1,1 @@
+flow fluid past sphere uniform stream order approximation methodvelocity pressure surface sphere power mach number calculation importance velocity sound spheremach number value mach number maximum velocity fluid past sphere velocity sound

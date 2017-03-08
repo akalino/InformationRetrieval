@@ -1,0 +1,1 @@
+paper pressure distribution surface aerofoil stream mach number unity small-disturbance linear theory method linearizationcomparing hodograph method accuracycalculation pressure coefficient

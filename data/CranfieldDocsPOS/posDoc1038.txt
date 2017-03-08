@@ -1,0 +1,1 @@
+deformation stress distribution thin( right circular cylinder frustum right circular cone portion spheremaximumdiscontinuity shear momentcylinder change thickness cone change thickness portion sphere cylinder portion

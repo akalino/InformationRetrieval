@@ -1,0 +1,1 @@
+basis small-perturbation theory similitude inviscid flow slenderplaneinspection governing system similitude law flow equilibrium free-streamgas requirement free-streamecomposition pressure density requirement ratiosimilitudeapplication similarity case ideal gas blunt case equilibrium airpossibility nonequilibrium slender

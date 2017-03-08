@@ -1,0 +1,1 @@
+temperature flow annulus channel injectionconduction dissipationtemperature wall

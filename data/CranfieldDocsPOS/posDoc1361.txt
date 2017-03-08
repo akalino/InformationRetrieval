@@ -1,0 +1,1 @@
+method formulation stiffness matrix nonuniform heatingpurpose tool treatmentsolutionstiffness matrix formulation relationship temperaturetemperatureproblemproblem procedureforce-deformation approach member plate element

@@ -1,0 +1,1 @@
+equilibrium gas incident nitrogen oxygenrange mach gas pressure model gas detail methodassumption equilibrium regard accuracy

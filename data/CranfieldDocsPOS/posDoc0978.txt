@@ -1,0 +1,1 @@
+solution transient heat conduction equation cylinder thicknessimplicit method solution conductivity function temperatureapplication sample case heating erosion sublimation combustion body surface

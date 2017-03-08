@@ -1,0 +1,1 @@
+t stiffness flexure pivot forcetype variation moving pointrelation torque rotation force extent non-linearity taking account centre rotation pivotdesign analysis maximum

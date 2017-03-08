@@ -1,0 +1,1 @@
+flow body traveling ionospheregas model description transfer mixtureequilibrium forceaction field flow body formula resultant forcetotal force body sum force forcepotential plane bodylack validity debye linearization case solution nonlinear problem characterize potential electron distribution

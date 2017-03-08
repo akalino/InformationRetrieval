@@ -1,0 +1,1 @@
+flow fluid stagnation region sphere fieldassuming pressure distribution density equation flow closed-form solutionratio shock wave parameter ratio force free-stream inertia force density ratio value stream value shock wave productvelocity gradient body ratio case parametercase

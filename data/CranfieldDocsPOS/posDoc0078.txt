@@ -1,0 +1,1 @@
+investigation instability combinationmodel system pitch yaw backup structure stabilitypaper sensitivity stability stiffness engine mount propeller number propeller location pitch yawstability damping stiffness systemuse stability airplane modelwing response showset stabilityresult fact response damping system

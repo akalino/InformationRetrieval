@@ -1,0 +1,1 @@
+paper motion cone angle air speeddirection motion cone symmetry air flowperturbation /yaw/ecase cone direction axislatter here,providing check approximate wider applicabilitysquare yaw approximation validity( second-order yaw significance,) lack symmetry flow

@@ -1,0 +1,1 @@
+equilibrium flowtype flow air equilibrium nozzle reservoirtype equilibrium nozzlerange stagnation inch absolute stagnation btu poundflow temperature pressure density velocity pressure number number weight fraction mass flowequilibrium flow shock

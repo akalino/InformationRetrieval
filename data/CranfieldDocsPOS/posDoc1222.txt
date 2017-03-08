@@ -1,0 +1,1 @@
+flow skin friction heat transfer fluid channel area field numberfield flow dipole field method casecase interaction parameterrelaxation methodlaminar boundary layer wall pressure form featureanalysis boundary-layer method velocity profile profilepressure temperature shock tubeagreement

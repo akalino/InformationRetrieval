@@ -1,0 +1,1 @@
+linear eighth-order equilibrium differential equation bucklingequation explicit compression pressure torsion compression

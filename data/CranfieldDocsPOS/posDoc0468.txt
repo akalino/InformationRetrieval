@@ -1,0 +1,1 @@
+method velocity pressure aerofoil slender body revolution speedrefinement flow theory maeder correction term account character flowapplication circular-arc aerofoil body revolution flow agreement portion latter case

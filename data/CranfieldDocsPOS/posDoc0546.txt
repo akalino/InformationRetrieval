@@ -1,0 +1,1 @@
+note transient wall temperature airstream mach numberskin model zero heat transfer running time minuteorder heat conduction run skin model thickness result uniform temperature surface laminar turbulentheat transfer wall temperature enthalpy method

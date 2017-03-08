@@ -1,0 +1,1 @@
+method layer heat mass transfer laminar boundary layer pressure uniformconcentration energypair surface mass transfer rate surface concentrationsurface temperature heat transfer rate presence mass transferhelium air injection air stream detail methodapproximate

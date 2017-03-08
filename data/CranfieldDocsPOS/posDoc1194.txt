@@ -1,0 +1,1 @@
+flow fluid past nonconducting airfoil model fluid obey lundquist flow/hyperliptic/mccune resler resler detail case arbitrarily fieldsolution line bodykutta-joukowski condition linesolutionbehavior computation limiting

@@ -1,0 +1,1 @@
+paper analysis flow platesystem consideration laminar boundary layer plate injection streamheat balance surface heat surface heatexistence nonuniform distribution injectionmethod solution integration first-order momentum energy layer tangentwedge approximation inviscid layerfirst-order pressure interaction surface pressure skinfriction coefficient nusselt number

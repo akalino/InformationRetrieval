@@ -1,0 +1,1 @@
+effectlift drag spanwise distribution loadswept lift drag moment method calculation effect tip vortex

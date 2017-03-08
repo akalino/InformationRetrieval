@@ -1,0 +1,1 @@
+flow heat transfer rotating isothermal disk compressibility propertydissipation problem problem assuming linear viscosity conductivity temperaturehereineffect compressibility distortion coordinate velocity component factor coefficient nusselt number skin-friction disk

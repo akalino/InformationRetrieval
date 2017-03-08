@@ -1,0 +1,1 @@
+investigation scale model aircraftmodel single-rotation ( ) wing incidence hovering flightinvestigation stability control forward flight transitioncondition coefficient transition condition incidence power range flight forwardacceleration climb deceleration descent control effectiveness horizontal tail propeller pitch controlanalysis

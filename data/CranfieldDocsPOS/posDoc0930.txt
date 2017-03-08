@@ -1,0 +1,1 @@
+theory case unityderivation tensor form coordinate system surface shelleffectcurvature problem solution stress function deflection shellsurface revolution equation generating curveshell

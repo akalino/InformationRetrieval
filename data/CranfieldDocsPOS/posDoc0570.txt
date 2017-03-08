@@ -1,0 +1,1 @@
+prandtl boundary-layer problem interaction leadingedge shock layer platemach number interaction region plate skin-friction coefficient valueheat-transfer coefficient number

@@ -1,0 +1,1 @@
+interest design nonlinear diskload inner outer edges,behaviorapproximation assumptionshell remain deformation strain middle surface vanishapproximation assumption shellassumption edges,latter condition momentseries solution case case plate loadingshellexamination bending magnitude bendinghence present analysis neglect bending moment

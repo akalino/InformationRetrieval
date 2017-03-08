@@ -1,0 +1,1 @@
+equation creep beam materialmaterial elasticity pure flowequation creep deflection beam pure column sinusoidal deviation straightnessratio creep beam pure corresponding structure ratio creep strain corresponding strain bar tension compressionanalysis creep deflection column increase time loading timetime load euler load columnexample type experiment aluminum

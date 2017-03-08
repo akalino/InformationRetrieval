@@ -1,0 +1,1 @@
+nonlinear boundary value problem determination cap pressureemploying iteration procedurecase difference justification iteration methodequilibrium shape pressure-deflection curve classbuckling buckling loadeloadsolutionloading thickness shell

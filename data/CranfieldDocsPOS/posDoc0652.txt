@@ -1,0 +1,1 @@
+method pressure distribution flow section groundpotential flow solution thick aerofoil raesection verification adequacy methodaccount layer aerofoil

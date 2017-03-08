@@ -1,0 +1,1 @@
+paper system degree freedom restoring force damping forcelatter function velocity /polygonal/ graph damping valuesolution motion maximum velocity periodsolution caseapproximate solution series ratio accuracy

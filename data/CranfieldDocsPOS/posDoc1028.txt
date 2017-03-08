@@ -1,0 +1,1 @@
+theory naca note behavior transient metal elasticity viscositytheory theory transient creeptransient creep creep exponent time transient regiontheory creep transient region regioncorresponding family creep metal family use appropriatecreep differencetransient creep theory pure aluminum gamma iron agreement

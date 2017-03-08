@@ -1,0 +1,1 @@
+skin-stiffener winglike heating aid analyzerheat-transfer parameter conductivity parameter ratio skin width thicknessform conductivity parameter temperature peak thermal stress skin peak stiffener stress ratios,heat-transfer parameter temperature peak skin stress peak stiffener stress ratios,ratio skin width thickness peak skin stress peak stiffener stress
